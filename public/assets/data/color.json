@@ -1,0 +1,120 @@
+{
+    "value": {
+      "1": "PUTIH",
+      "2": "HITAM",
+      "3": "PINK",
+      "4": "MERAH",
+      "5": "BIRU",
+      "6": "TOSKA",
+      "7": "STRIPE",
+      "8": "KUNING",
+      "9": "HIJAU",
+      "10": "UNGU",
+      "11": "PEACH",
+      "12": "COKLAT",
+      "13": "ORANGE",
+      "14": "ABU-ABU",
+      "15": "MAROON",
+      "16": "FUSIA",
+      "17": "NAVY",
+      "18": "CREAM",
+      "19": "BIRU MUDA"
+    },
+    "data" : [
+      {
+        "code": "1",
+        "name": "PUTIH",
+        "hex": "#FFFFFF"
+      },
+      {
+        "code": "2",
+        "name": "HITAM",
+        "hex": "#000000"
+      },
+      {
+        "code": "3",
+        "name": "PINK",
+        "hex": "#FFC0CB"
+      },
+      {
+        "code": "4",
+        "name": "MERAH",
+        "hex": "#FF0000"
+      },
+      {
+        "code": "5",
+        "name": "BIRU",
+        "hex": "#0000FF"
+      },
+      {
+        "code": "6",
+        "name": "TOSKA",
+        "hex": "#c09999"
+      },
+      {
+        "code": "7",
+        "name": "STRIPE",
+        "hex": "#008cdd"
+      },
+      {
+        "code": "8",
+        "name": "KUNING",
+        "hex": "#FFFF00"
+      },
+      {
+        "code": "9",
+        "name": "HIJAU",
+        "hex": "#00FF00"
+      },
+      {
+        "code": "10",
+        "name": "UNGU",
+        "hex": "#800080"
+      },
+      {
+        "code": "11",
+        "name": "PEACH",
+        "hex": "#FFE5B4"
+      },
+      {
+        "code": "12",
+        "name": "COKLAT",
+        "hex": "#7B3F00"
+      },
+      {
+        "code": "13",
+        "name": "ORANGE",
+        "hex": "#FFA500"
+      },
+      {
+        "code": "14",
+        "name": "ABU-ABU",
+        "hex": "#808080"
+      },
+      {
+        "code": "15",
+        "name": "MAROON",
+        "hex": "#800000"
+      },
+      {
+        "code": "16",
+        "name": "FUSIA",
+        "hex": "#FF00FF"
+      },
+      {
+        "code": "17",
+        "name": "NAVY",
+        "hex": "#000080"
+      },
+      {
+        "code": "18",
+        "name": "CREAM",
+        "hex": "#FFFDD0"
+      },
+      {
+        "code": "19",
+        "name": "BIRU MUDA",
+        "hex": "#03a9f4"
+      }
+    ]
+  }

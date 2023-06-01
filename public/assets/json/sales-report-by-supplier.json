@@ -1,0 +1,562 @@
+[
+  {
+    "No": 1,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 10,
+    "Sales": "250,000",
+    "Total": "2,500,000"
+  },
+  {
+    "No": 2,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 3,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 2,
+    "Sales": "250,000",
+    "Total": "500,000"
+  },
+  {
+    "No": 4,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 5,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 9,
+    "Sales": "250,000",
+    "Total": "2,250,000"
+  },
+  {
+    "No": 6,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 8,
+    "Sales": "250,000",
+    "Total": "2,000,000"
+  },
+  {
+    "No": 7,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 9,
+    "Sales": "250,000",
+    "Total": "2,250,000"
+  },
+  {
+    "No": 8,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 9,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  },
+  {
+    "No": 10,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 6,
+    "Sales": "250,000",
+    "Total": "1,500,000"
+  },
+  {
+    "No": 11,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 9,
+    "Sales": "250,000",
+    "Total": "2,250,000"
+  },
+  {
+    "No": 12,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 13,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 8,
+    "Sales": "250,000",
+    "Total": "2,000,000"
+  },
+  {
+    "No": 14,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 8,
+    "Sales": "250,000",
+    "Total": "2,000,000"
+  },
+  {
+    "No": 15,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 16,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 1,
+    "Sales": "250,000",
+    "Total": "250,000"
+  },
+  {
+    "No": 17,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 6,
+    "Sales": "250,000",
+    "Total": "1,500,000"
+  },
+  {
+    "No": 18,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 19,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 9,
+    "Sales": "250,000",
+    "Total": "2,250,000"
+  },
+  {
+    "No": 20,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 6,
+    "Sales": "250,000",
+    "Total": "1,500,000"
+  },
+  {
+    "No": 21,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 2,
+    "Sales": "250,000",
+    "Total": "500,000"
+  },
+  {
+    "No": 22,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 23,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 3,
+    "Sales": "250,000",
+    "Total": "750,000"
+  },
+  {
+    "No": 24,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 25,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 26,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 27,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 8,
+    "Sales": "250,000",
+    "Total": "2,000,000"
+  },
+  {
+    "No": 28,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 8,
+    "Sales": "250,000",
+    "Total": "2,000,000"
+  },
+  {
+    "No": 29,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 3,
+    "Sales": "250,000",
+    "Total": "750,000"
+  },
+  {
+    "No": 30,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 31,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 8,
+    "Sales": "250,000",
+    "Total": "2,000,000"
+  },
+  {
+    "No": 32,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 2,
+    "Sales": "250,000",
+    "Total": "500,000"
+  },
+  {
+    "No": 33,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 1,
+    "Sales": "250,000",
+    "Total": "250,000"
+  },
+  {
+    "No": 34,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 2,
+    "Sales": "250,000",
+    "Total": "500,000"
+  },
+  {
+    "No": 35,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 2,
+    "Sales": "250,000",
+    "Total": "500,000"
+  },
+  {
+    "No": 36,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 1,
+    "Sales": "250,000",
+    "Total": "250,000"
+  },
+  {
+    "No": 37,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 1,
+    "Sales": "250,000",
+    "Total": "250,000"
+  },
+  {
+    "No": 38,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 10,
+    "Sales": "250,000",
+    "Total": "2,500,000"
+  },
+  {
+    "No": 39,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 6,
+    "Sales": "250,000",
+    "Total": "1,500,000"
+  },
+  {
+    "No": 40,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 6,
+    "Sales": "250,000",
+    "Total": "1,500,000"
+  },
+  {
+    "No": 41,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 42,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 43,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  },
+  {
+    "No": 44,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 45,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 46,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 47,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 1,
+    "Sales": "250,000",
+    "Total": "250,000"
+  },
+  {
+    "No": 48,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  },
+  {
+    "No": 49,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 6,
+    "Sales": "250,000",
+    "Total": "1,500,000"
+  },
+  {
+    "No": 50,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  },
+  {
+    "No": 51,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  },
+  {
+    "No": 52,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 1,
+    "Sales": "250,000",
+    "Total": "250,000"
+  },
+  {
+    "No": 53,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  },
+  {
+    "No": 54,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 5,
+    "Sales": "250,000",
+    "Total": "1,250,000"
+  },
+  {
+    "No": 55,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 7,
+    "Sales": "250,000",
+    "Total": "1,750,000"
+  },
+  {
+    "No": 56,
+    "Code Supplier": "005",
+    "Nama Supplier": "FN Bandung",
+    "Nomor PBK": "PBK - 0000010",
+    "Barcode": "01-000004-02-XL",
+    "Qty": 4,
+    "Sales": "250,000",
+    "Total": "1,000,000"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "Rank": 1,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 1,
+    "Nama Group": "Blouse",
+    "Model": "12 Model",
+    "Qty Terjual": "1,852",
+    "Sales": "294,412,440"
+  },
+  {
+    "Rank": 2,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 2,
+    "Nama Group": "Tshirt",
+    "Model": "3 Model",
+    "Qty Terjual": "1,348",
+    "Sales": "262,735,984"
+  },
+  {
+    "Rank": 3,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 3,
+    "Nama Group": "Rok",
+    "Model": "40 Model",
+    "Qty Terjual": "1,819",
+    "Sales": "451,252,063"
+  },
+  {
+    "Rank": 4,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 4,
+    "Nama Group": "Celana panjang",
+    "Model": "3 Model",
+    "Qty Terjual": "1,960",
+    "Sales": "481,372,080"
+  },
+  {
+    "Rank": 5,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 5,
+    "Nama Group": "Celana pendek",
+    "Model": "25 Model",
+    "Qty Terjual": "1,479",
+    "Sales": "227,224,686"
+  },
+  {
+    "Rank": 6,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 6,
+    "Nama Group": "Mini Dress",
+    "Model": "14 Model",
+    "Qty Terjual": "1,778",
+    "Sales": "346,283,280"
+  },
+  {
+    "Rank": 7,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 7,
+    "Nama Group": "Maxi Dress",
+    "Model": "29 Model",
+    "Qty Terjual": "1,566",
+    "Sales": "380,024,352"
+  },
+  {
+    "Rank": 8,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 8,
+    "Nama Group": "Sweater",
+    "Model": "14 Model",
+    "Qty Terjual": "1,278",
+    "Sales": "252,743,670"
+  },
+  {
+    "Rank": 9,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 9,
+    "Nama Group": "Sweatshirt",
+    "Model": "6 Model",
+    "Qty Terjual": 527,
+    "Sales": "98,179,573"
+  },
+  {
+    "Rank": 10,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 10,
+    "Nama Group": "Jumpsuit",
+    "Model": "44 Model",
+    "Qty Terjual": 610,
+    "Sales": "128,091,460"
+  },
+  {
+    "Rank": 11,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 11,
+    "Nama Group": "1 set Fashion Celana Panjang",
+    "Model": "24 Model",
+    "Qty Terjual": "1,559",
+    "Sales": "376,938,138"
+  },
+  {
+    "Rank": 12,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 12,
+    "Nama Group": "1 set Fashion celana pendek",
+    "Model": "23 Model",
+    "Qty Terjual": 293,
+    "Sales": "72,684,510"
+  },
+  {
+    "Rank": 13,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 13,
+    "Nama Group": "Cardigan",
+    "Model": "35 Model",
+    "Qty Terjual": "1,695",
+    "Sales": "386,210,835"
+  },
+  {
+    "Rank": 14,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 14,
+    "Nama Group": "syal",
+    "Model": "19 Model",
+    "Qty Terjual": 779,
+    "Sales": "141,297,357"
+  },
+  {
+    "Rank": 15,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 15,
+    "Nama Group": "Jaket",
+    "Model": "6 Model",
+    "Qty Terjual": "1,380",
+    "Sales": "306,348,960"
+  },
+  {
+    "Rank": 16,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 16,
+    "Nama Group": "Blazer",
+    "Model": "50 Model",
+    "Qty Terjual": 503,
+    "Sales": "101,149,276"
+  },
+  {
+    "Rank": 17,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 17,
+    "Nama Group": "1 set fashion bawahan rok",
+    "Model": "33 Model",
+    "Qty Terjual": 937,
+    "Sales": "148,353,336"
+  },
+  {
+    "Rank": 18,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 18,
+    "Nama Group": "set baju rajut",
+    "Model": "41 Model",
+    "Qty Terjual": "1,076",
+    "Sales": "186,731,192"
+  },
+  {
+    "Rank": 19,
+    "Image": "<img src='../datta-lite/assets/images/product/01.jpg' alt='' width='30px' height='30px' style='border-radius: 50%;'>",
+    "Code Group": 19,
+    "Nama Group": "Kemeja",
+    "Model": "7 Model",
+    "Qty Terjual": "1,189",
+    "Sales": "210,480,347"
+  }
+]

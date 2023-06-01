@@ -1,0 +1,42 @@
+[
+  {
+    "No": 1,
+    "Action": "<div class='row'><div class='btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Nama Toko": "Toko Mangga dua",
+    "Pengurus": "Tarmini",
+    "Alamat Detail": "Jl.Mangga Dua Raya",
+    "Catatan": "�"
+  },
+  {
+    "No": 2,
+    "Action": "<div class='row'><div class='btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Nama Toko": "Ruko Sunter Icon",
+    "Pengurus": "Bayu",
+    "Alamat Detail": "Kawasan Ruko sunter Icon",
+    "Catatan": "�"
+  },
+  {
+    "No": 3,
+    "Action": "<div class='row'><div class='btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Nama Toko": "Opulence Residence",
+    "Pengurus": "Diana",
+    "Alamat Detail": "Sunter Agung",
+    "Catatan": "�"
+  },
+  {
+    "No": 4,
+    "Action": "<div class='row'><div class='btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Nama Toko": "Toko Jayakarta",
+    "Pengurus": "Tarmini",
+    "Alamat Detail": "Jl.Mangga Dua Raya",
+    "Catatan": "�"
+  },
+  {
+    "No": 5,
+    "Action": "<div class='row'><div class='btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Nama Toko": "Toko Tanah Abang",
+    "Pengurus": "Tarmini",
+    "Alamat Detail": "Jl.Mangga Dua Raya",
+    "Catatan": "�"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "No": 1,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000001",
+    "Nilai Nota": "17,429,752",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 2,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000002",
+    "Nilai Nota": "37,531,053",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 3,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000003",
+    "Nilai Nota": "33,792,029",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 4,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000004",
+    "Nilai Nota": "25,667,005",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 5,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000005",
+    "Nilai Nota": "36,296,730",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 6,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000006",
+    "Nilai Nota": "27,425,749",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 7,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000007",
+    "Nilai Nota": "31,968,314",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 8,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000008",
+    "Nilai Nota": "38,750,201",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 9,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000009",
+    "Nilai Nota": "13,288,355",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 10,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000010",
+    "Nilai Nota": "30,180,026",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 11,
+    "Nama Customer": "Customer - 01",
+    "No Nota": "0000011",
+    "Nilai Nota": "11,149,514",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 12,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000012",
+    "Nilai Nota": "17,873,331",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 13,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000013",
+    "Nilai Nota": "37,345,040",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 14,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000014",
+    "Nilai Nota": "36,314,909",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 15,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000015",
+    "Nilai Nota": "14,674,175",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 16,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000016",
+    "Nilai Nota": "12,144,108",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 17,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000017",
+    "Nilai Nota": "37,935,372",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 18,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000018",
+    "Nilai Nota": "28,110,851",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 19,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000019",
+    "Nilai Nota": "38,761,024",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 20,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000020",
+    "Nilai Nota": "14,728,928",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 21,
+    "Nama Customer": "Customer - 02",
+    "No Nota": "0000021",
+    "Nilai Nota": "29,143,653",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 22,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000022",
+    "Nilai Nota": "12,802,212",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 23,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000023",
+    "Nilai Nota": "20,933,305",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 24,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000024",
+    "Nilai Nota": "28,462,413",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 25,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000025",
+    "Nilai Nota": "21,608,286",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 26,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000026",
+    "Nilai Nota": "35,078,526",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 27,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000027",
+    "Nilai Nota": "17,878,899",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 28,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000028",
+    "Nilai Nota": "34,199,464",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 29,
+    "Nama Customer": "Customer - 03",
+    "No Nota": "0000029",
+    "Nilai Nota": "33,776,676",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 30,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000030",
+    "Nilai Nota": "19,200,233",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 31,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000031",
+    "Nilai Nota": "33,851,154",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 32,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000032",
+    "Nilai Nota": "16,504,311",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 33,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000033",
+    "Nilai Nota": "39,951,560",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 34,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000034",
+    "Nilai Nota": "37,737,613",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 35,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000035",
+    "Nilai Nota": "29,839,698",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 36,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000036",
+    "Nilai Nota": "33,598,294",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 37,
+    "Nama Customer": "Customer - 04",
+    "No Nota": "0000037",
+    "Nilai Nota": "34,444,038",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 38,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000038",
+    "Nilai Nota": "13,544,147",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 39,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000039",
+    "Nilai Nota": "14,991,445",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 40,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000040",
+    "Nilai Nota": "20,713,683",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 41,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000041",
+    "Nilai Nota": "28,687,076",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 42,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000042",
+    "Nilai Nota": "38,977,719",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 43,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000043",
+    "Nilai Nota": "38,249,020",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 44,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000044",
+    "Nilai Nota": "38,160,525",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 45,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000045",
+    "Nilai Nota": "20,458,942",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 46,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000046",
+    "Nilai Nota": "26,874,523",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 47,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000047",
+    "Nilai Nota": "14,214,161",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 48,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000048",
+    "Nilai Nota": "37,961,125",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 49,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000049",
+    "Nilai Nota": "37,029,175",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 50,
+    "Nama Customer": "Customer - 05",
+    "No Nota": "0000050",
+    "Nilai Nota": "31,099,065",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 51,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000051",
+    "Nilai Nota": "21,425,056",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 52,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000052",
+    "Nilai Nota": "19,387,084",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 53,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000053",
+    "Nilai Nota": "36,629,915",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 54,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000054",
+    "Nilai Nota": "38,040,616",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 55,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000055",
+    "Nilai Nota": "19,254,678",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 56,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000056",
+    "Nilai Nota": "19,454,015",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 57,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000057",
+    "Nilai Nota": "11,331,465",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 58,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000058",
+    "Nilai Nota": "11,500,543",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 59,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000059",
+    "Nilai Nota": "37,178,360",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 60,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000060",
+    "Nilai Nota": "16,241,368",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 61,
+    "Nama Customer": "Customer - 06",
+    "No Nota": "0000061",
+    "Nilai Nota": "25,769,015",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 62,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000062",
+    "Nilai Nota": "31,792,832",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 63,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000063",
+    "Nilai Nota": "27,764,496",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 64,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000064",
+    "Nilai Nota": "30,729,217",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 65,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000065",
+    "Nilai Nota": "28,031,490",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 66,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000066",
+    "Nilai Nota": "17,538,693",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 67,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000067",
+    "Nilai Nota": "11,707,893",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 68,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000068",
+    "Nilai Nota": "25,706,288",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 69,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000069",
+    "Nilai Nota": "22,968,991",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 70,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000070",
+    "Nilai Nota": "20,628,942",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 71,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000071",
+    "Nilai Nota": "38,522,449",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 72,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000072",
+    "Nilai Nota": "31,685,872",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 73,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000073",
+    "Nilai Nota": "38,072,775",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 74,
+    "Nama Customer": "Customer - 07",
+    "No Nota": "0000074",
+    "Nilai Nota": "16,639,927",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 75,
+    "Nama Customer": "Customer - 08",
+    "No Nota": "0000075",
+    "Nilai Nota": "10,104,044",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 76,
+    "Nama Customer": "Customer - 08",
+    "No Nota": "0000076",
+    "Nilai Nota": "24,821,754",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 77,
+    "Nama Customer": "Customer - 08",
+    "No Nota": "0000077",
+    "Nilai Nota": "26,706,350",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 78,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000078",
+    "Nilai Nota": "13,920,662",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 79,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000079",
+    "Nilai Nota": "34,191,999",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 80,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000080",
+    "Nilai Nota": "22,794,626",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 81,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000081",
+    "Nilai Nota": "19,576,136",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 82,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000082",
+    "Nilai Nota": "37,397,127",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 83,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000083",
+    "Nilai Nota": "33,323,504",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 84,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000084",
+    "Nilai Nota": "15,236,706",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 85,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000085",
+    "Nilai Nota": "27,442,501",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 86,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000086",
+    "Nilai Nota": "12,475,087",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 87,
+    "Nama Customer": "Customer - 09",
+    "No Nota": "0000087",
+    "Nilai Nota": "19,997,838",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 88,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000088",
+    "Nilai Nota": "19,140,846",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 89,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000089",
+    "Nilai Nota": "38,793,523",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 90,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000090",
+    "Nilai Nota": "31,143,426",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 91,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000091",
+    "Nilai Nota": "39,663,718",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 92,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000092",
+    "Nilai Nota": "28,742,492",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 93,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000093",
+    "Nilai Nota": "19,015,694",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 94,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000094",
+    "Nilai Nota": "14,908,944",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 95,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000095",
+    "Nilai Nota": "22,788,128",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 96,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000096",
+    "Nilai Nota": "31,016,845",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 97,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000097",
+    "Nilai Nota": "30,794,383",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 98,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000098",
+    "Nilai Nota": "11,825,348",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 99,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000099",
+    "Nilai Nota": "35,806,372",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  },
+  {
+    "No": 100,
+    "Nama Customer": "Customer - 10",
+    "No Nota": "0000100",
+    "Nilai Nota": "10,696,663",
+    "Tanggal Nota": "25/08/2021",
+    "Due Date": "25/08/2021"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "No": 1,
+    "Tanggal": "01 September 2021",
+    "Barang Keluar": 611,
+    "Barang Masuk": 665,
+    "Total": 54
+  },
+  {
+    "No": 2,
+    "Tanggal": "02 September 2021",
+    "Barang Keluar": 975,
+    "Barang Masuk": 262,
+    "Total": -713
+  },
+  {
+    "No": 3,
+    "Tanggal": "03 September 2021",
+    "Barang Keluar": 960,
+    "Barang Masuk": 885,
+    "Total": -75
+  },
+  {
+    "No": 4,
+    "Tanggal": "04 September 2021",
+    "Barang Keluar": 702,
+    "Barang Masuk": 268,
+    "Total": -434
+  },
+  {
+    "No": 5,
+    "Tanggal": "05 September 2021",
+    "Barang Keluar": 282,
+    "Barang Masuk": 674,
+    "Total": 392
+  },
+  {
+    "No": 6,
+    "Tanggal": "06 September 2021",
+    "Barang Keluar": 303,
+    "Barang Masuk": 699,
+    "Total": 396
+  },
+  {
+    "No": 7,
+    "Tanggal": "07 September 2021",
+    "Barang Keluar": 471,
+    "Barang Masuk": 722,
+    "Total": 251
+  },
+  {
+    "No": 8,
+    "Tanggal": "08 September 2021",
+    "Barang Keluar": 555,
+    "Barang Masuk": 949,
+    "Total": 394
+  },
+  {
+    "No": 9,
+    "Tanggal": "09 September 2021",
+    "Barang Keluar": 711,
+    "Barang Masuk": 0,
+    "Total": -711
+  },
+  {
+    "No": 10,
+    "Tanggal": "10 September 2021",
+    "Barang Keluar": 225,
+    "Barang Masuk": 765,
+    "Total": 540
+  },
+  {
+    "No": 11,
+    "Tanggal": "11 September 2021",
+    "Barang Keluar": 700,
+    "Barang Masuk": 0,
+    "Total": -700
+  },
+  {
+    "No": 12,
+    "Tanggal": "12 September 2021",
+    "Barang Keluar": 234,
+    "Barang Masuk": 0,
+    "Total": -234
+  },
+  {
+    "No": 13,
+    "Tanggal": "13 September 2021",
+    "Barang Keluar": 321,
+    "Barang Masuk": 0,
+    "Total": -321
+  },
+  {
+    "No": 14,
+    "Tanggal": "14 September 2021",
+    "Barang Keluar": 272,
+    "Barang Masuk": 0,
+    "Total": -272
+  },
+  {
+    "No": 15,
+    "Tanggal": "15 September 2021",
+    "Barang Keluar": 988,
+    "Barang Masuk": 889,
+    "Total": -99
+  },
+  {
+    "No": 16,
+    "Tanggal": "16 September 2021",
+    "Barang Keluar": 284,
+    "Barang Masuk": 0,
+    "Total": -284
+  },
+  {
+    "No": 17,
+    "Tanggal": "17 September 2021",
+    "Barang Keluar": 308,
+    "Barang Masuk": 0,
+    "Total": -308
+  },
+  {
+    "No": 18,
+    "Tanggal": "18 September 2021",
+    "Barang Keluar": 570,
+    "Barang Masuk": 420,
+    "Total": -150
+  },
+  {
+    "No": 19,
+    "Tanggal": "19 September 2021",
+    "Barang Keluar": 920,
+    "Barang Masuk": 753,
+    "Total": -167
+  },
+  {
+    "No": 20,
+    "Tanggal": "20 September 2021",
+    "Barang Keluar": 976,
+    "Barang Masuk": 688,
+    "Total": -288
+  },
+  {
+    "No": 21,
+    "Tanggal": "21 September 2021",
+    "Barang Keluar": 320,
+    "Barang Masuk": 351,
+    "Total": 31
+  },
+  {
+    "No": 22,
+    "Tanggal": "22 September 2021",
+    "Barang Keluar": 690,
+    "Barang Masuk": 0,
+    "Total": -690
+  },
+  {
+    "No": 23,
+    "Tanggal": "23 September 2021",
+    "Barang Keluar": 703,
+    "Barang Masuk": 0,
+    "Total": -703
+  },
+  {
+    "No": 24,
+    "Tanggal": "24 September 2021",
+    "Barang Keluar": 941,
+    "Barang Masuk": 0,
+    "Total": -941
+  },
+  {
+    "No": 25,
+    "Tanggal": "25 September 2021",
+    "Barang Keluar": 815,
+    "Barang Masuk": 0,
+    "Total": -815
+  },
+  {
+    "No": 26,
+    "Tanggal": "26 September 2021",
+    "Barang Keluar": 979,
+    "Barang Masuk": 728,
+    "Total": -251
+  },
+  {
+    "No": 27,
+    "Tanggal": "27 September 2021",
+    "Barang Keluar": 917,
+    "Barang Masuk": 625,
+    "Total": -292
+  },
+  {
+    "No": 28,
+    "Tanggal": "28 September 2021",
+    "Barang Keluar": 330,
+    "Barang Masuk": 0,
+    "Total": -330
+  },
+  {
+    "No": 29,
+    "Tanggal": "29 September 2021",
+    "Barang Keluar": 342,
+    "Barang Masuk": 0,
+    "Total": -342
+  },
+  {
+    "No": 30,
+    "Tanggal": "30 September 2021",
+    "Barang Keluar": 324,
+    "Barang Masuk": 546,
+    "Total": 222
+  },
+  {
+    "No": "-",
+    "Tanggal": "Total",
+    "Barang Keluar": 17729,
+    "Barang Masuk": 10889,
+    "Total": -6840
+  }
+]

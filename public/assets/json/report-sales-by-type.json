@@ -1,0 +1,42 @@
+[
+  {
+    "No": 1,
+    "Type Sales": "Grosir",
+    "Transaksi": 1793,
+    "Qty Terjual": 20707,
+    "Sales": 5243281591,
+    "%": "25.71%"
+  },
+  {
+    "No": 2,
+    "Type Sales": "Eceran",
+    "Transaksi": 1920,
+    "Qty Terjual": 29523,
+    "Sales": 8129394234,
+    "%": "39.85%"
+  },
+  {
+    "No": 3,
+    "Type Sales": "Kosinyasi",
+    "Transaksi": 1717,
+    "Qty Terjual": 13644,
+    "Sales": 3838193640,
+    "%": "18.82%"
+  },
+  {
+    "No": 4,
+    "Type Sales": "Ecommerce",
+    "Transaksi": 1976,
+    "Qty Terjual": 12627,
+    "Sales": 3157722279,
+    "%": "15.48%"
+  },
+  {
+    "No": 5,
+    "Type Sales": "Penjualan Langsung",
+    "Transaksi": 293,
+    "Qty Terjual": 115,
+    "Sales": 28926640,
+    "%": "0.14%"
+  }
+]

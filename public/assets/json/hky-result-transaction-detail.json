@@ -1,0 +1,332 @@
+[
+  {
+    "No": 1,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "0001/PO/ICONZ/IX/2021",
+    "Customer": "",
+    "Barcode": "02.00002.01.XL",
+    "Barang Keluar": 0,
+    "Barang Masuk": 1000,
+    "Total": 1000
+  },
+  {
+    "No": 2,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "0001/PO/ICONZ/IX/2021",
+    "Customer": "",
+    "Barcode": "02.00002.02.XL",
+    "Barang Keluar": 0,
+    "Barang Masuk": 1000,
+    "Total": 1000
+  },
+  {
+    "No": 3,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.XL",
+    "Barang Keluar": 98,
+    "Barang Masuk": 0,
+    "Total": -98
+  },
+  {
+    "No": 4,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.XL",
+    "Barang Keluar": 36,
+    "Barang Masuk": 0,
+    "Total": -36
+  },
+  {
+    "No": 5,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.XL",
+    "Barang Keluar": 58,
+    "Barang Masuk": 0,
+    "Total": -58
+  },
+  {
+    "No": 6,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 84,
+    "Barang Masuk": 0,
+    "Total": -84
+  },
+  {
+    "No": 7,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 82,
+    "Barang Masuk": 0,
+    "Total": -82
+  },
+  {
+    "No": 8,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 55,
+    "Barang Masuk": 0,
+    "Total": -55
+  },
+  {
+    "No": 9,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.M",
+    "Barang Keluar": 76,
+    "Barang Masuk": 0,
+    "Total": -76
+  },
+  {
+    "No": 10,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.M",
+    "Barang Keluar": 55,
+    "Barang Masuk": 0,
+    "Total": -55
+  },
+  {
+    "No": 11,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001253",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.M",
+    "Barang Keluar": 21,
+    "Barang Masuk": 0,
+    "Total": -21
+  },
+  {
+    "No": 12,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.XL",
+    "Barang Keluar": 92,
+    "Barang Masuk": 0,
+    "Total": -92
+  },
+  {
+    "No": 13,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.XL",
+    "Barang Keluar": 87,
+    "Barang Masuk": 0,
+    "Total": -87
+  },
+  {
+    "No": 14,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.XL",
+    "Barang Keluar": 61,
+    "Barang Masuk": 0,
+    "Total": -61
+  },
+  {
+    "No": 15,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 75,
+    "Barang Masuk": 0,
+    "Total": -75
+  },
+  {
+    "No": 16,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 62,
+    "Barang Masuk": 0,
+    "Total": -62
+  },
+  {
+    "No": 17,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 80,
+    "Barang Masuk": 0,
+    "Total": -80
+  },
+  {
+    "No": 18,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.M",
+    "Barang Keluar": 20,
+    "Barang Masuk": 0,
+    "Total": -20
+  },
+  {
+    "No": 19,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.M",
+    "Barang Keluar": 30,
+    "Barang Masuk": 0,
+    "Total": -30
+  },
+  {
+    "No": 20,
+    "Tanggal": "01 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001254",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.M",
+    "Barang Keluar": 72,
+    "Barang Masuk": 0,
+    "Total": -72
+  },
+  {
+    "No": 21,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.XL",
+    "Barang Keluar": 97,
+    "Barang Masuk": 0,
+    "Total": -97
+  },
+  {
+    "No": 22,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.XL",
+    "Barang Keluar": 77,
+    "Barang Masuk": 0,
+    "Total": -77
+  },
+  {
+    "No": 23,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.XL",
+    "Barang Keluar": 29,
+    "Barang Masuk": 0,
+    "Total": -29
+  },
+  {
+    "No": 24,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 42,
+    "Barang Masuk": 0,
+    "Total": -42
+  },
+  {
+    "No": 25,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 34,
+    "Barang Masuk": 0,
+    "Total": -34
+  },
+  {
+    "No": 26,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.S",
+    "Barang Keluar": 22,
+    "Barang Masuk": 0,
+    "Total": -22
+  },
+  {
+    "No": 27,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.01.M",
+    "Barang Keluar": 59,
+    "Barang Masuk": 0,
+    "Total": -59
+  },
+  {
+    "No": 28,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.M",
+    "Barang Keluar": 19,
+    "Barang Masuk": 0,
+    "Total": -19
+  },
+  {
+    "No": 29,
+    "Tanggal": "02 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001255",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.M",
+    "Barang Keluar": 73,
+    "Barang Masuk": 0,
+    "Total": -73
+  },
+  {
+    "No": 30,
+    "Tanggal": "03 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001256",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.02.M",
+    "Barang Keluar": 73,
+    "Barang Masuk": 0,
+    "Total": -73
+  },
+  {
+    "No": 31,
+    "Tanggal": "03 September 2021",
+    "Nomor PBK / Nomor Purchase": "#PBK - 000000001256",
+    "Customer": "FN Bandung",
+    "Barcode": "02.00002.03.M",
+    "Barang Keluar": 64,
+    "Barang Masuk": 0,
+    "Total": -64
+  },
+  {
+    "No": "",
+    "Tanggal": "",
+    "Nomor PBK / Nomor Purchase": "",
+    "Customer": "",
+    "Barcode": "",
+    "Barang Keluar": 1596,
+    "Barang Masuk": 2000,
+    "Total": 404
+  },
+  {
+    "No": "",
+    "Tanggal": "",
+    "Nomor PBK / Nomor Purchase": "",
+    "Customer": "",
+    "Barcode": "",
+    "Barang Keluar": "",
+    "Barang Masuk": "",
+    "Total": ""
+  }
+]

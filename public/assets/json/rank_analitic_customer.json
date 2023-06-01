@@ -1,0 +1,902 @@
+[
+  {
+    "No": 1,
+    "Rank": 50,
+    "Code Customer": "066",
+    "Nama Customer": "Customer - 066",
+    "Order": 152,
+    "Qty Terjual": 912,
+    "Sales": "Rp170,239,392"
+  },
+  {
+    "No": 2,
+    "Rank": 15,
+    "Code Customer": "024",
+    "Nama Customer": "Customer - 024",
+    "Order": 163,
+    "Qty Terjual": 2119,
+    "Sales": "Rp368,763,213"
+  },
+  {
+    "No": 3,
+    "Rank": 55,
+    "Code Customer": "089",
+    "Nama Customer": "Customer - 089",
+    "Order": 58,
+    "Qty Terjual": 928,
+    "Sales": "Rp148,259,136"
+  },
+  {
+    "No": 4,
+    "Rank": 91,
+    "Code Customer": "079",
+    "Nama Customer": "Customer - 079",
+    "Order": 14,
+    "Qty Terjual": 98,
+    "Sales": "Rp18,836,188"
+  },
+  {
+    "No": 5,
+    "Rank": 23,
+    "Code Customer": "075",
+    "Nama Customer": "Customer - 075",
+    "Order": 98,
+    "Qty Terjual": 1764,
+    "Sales": "Rp292,936,896"
+  },
+  {
+    "No": 6,
+    "Rank": 33,
+    "Code Customer": "009",
+    "Nama Customer": "Customer - 009",
+    "Order": 200,
+    "Qty Terjual": 1200,
+    "Sales": "Rp231,393,600"
+  },
+  {
+    "No": 7,
+    "Rank": 79,
+    "Code Customer": "048",
+    "Nama Customer": "Customer - 048",
+    "Order": 104,
+    "Qty Terjual": 208,
+    "Sales": "Rp40,981,200"
+  },
+  {
+    "No": 8,
+    "Rank": 29,
+    "Code Customer": "040",
+    "Nama Customer": "Customer - 040",
+    "Order": 137,
+    "Qty Terjual": 1507,
+    "Sales": "Rp257,856,742"
+  },
+  {
+    "No": 9,
+    "Rank": 85,
+    "Code Customer": "004",
+    "Nama Customer": "Customer - 004",
+    "Order": 118,
+    "Qty Terjual": 118,
+    "Sales": "Rp21,837,080"
+  },
+  {
+    "No": 10,
+    "Rank": 56,
+    "Code Customer": "058",
+    "Nama Customer": "Customer - 058",
+    "Order": 53,
+    "Qty Terjual": 636,
+    "Sales": "Rp119,350,488"
+  },
+  {
+    "No": 11,
+    "Rank": 13,
+    "Code Customer": "098",
+    "Nama Customer": "Customer - 098",
+    "Order": 171,
+    "Qty Terjual": 2394,
+    "Sales": "Rp377,797,140"
+  },
+  {
+    "No": 12,
+    "Rank": 26,
+    "Code Customer": "089",
+    "Nama Customer": "Customer - 089",
+    "Order": 132,
+    "Qty Terjual": 1584,
+    "Sales": "Rp268,549,776"
+  },
+  {
+    "No": 13,
+    "Rank": 15,
+    "Code Customer": "009",
+    "Nama Customer": "Customer - 009",
+    "Order": 93,
+    "Qty Terjual": 1860,
+    "Sales": "Rp323,342,400"
+  },
+  {
+    "No": 14,
+    "Rank": 2,
+    "Code Customer": "053",
+    "Nama Customer": "Customer - 053",
+    "Order": 184,
+    "Qty Terjual": 2944,
+    "Sales": "Rp537,612,672"
+  },
+  {
+    "No": 15,
+    "Rank": 74,
+    "Code Customer": "089",
+    "Nama Customer": "Customer - 089",
+    "Order": 62,
+    "Qty Terjual": 186,
+    "Sales": "Rp35,870,286"
+  },
+  {
+    "No": 16,
+    "Rank": 74,
+    "Code Customer": "006",
+    "Nama Customer": "Customer - 006",
+    "Order": 20,
+    "Qty Terjual": 180,
+    "Sales": "Rp35,459,640"
+  },
+  {
+    "No": 17,
+    "Rank": 7,
+    "Code Customer": "049",
+    "Nama Customer": "Customer - 049",
+    "Order": 154,
+    "Qty Terjual": 2464,
+    "Sales": "Rp417,007,360"
+  },
+  {
+    "No": 18,
+    "Rank": 82,
+    "Code Customer": "054",
+    "Nama Customer": "Customer - 054",
+    "Order": 2,
+    "Qty Terjual": 18,
+    "Sales": "Rp2,902,482"
+  },
+  {
+    "No": 19,
+    "Rank": 82,
+    "Code Customer": "039",
+    "Nama Customer": "Customer - 039",
+    "Order": 1,
+    "Qty Terjual": 13,
+    "Sales": "Rp2,061,358"
+  },
+  {
+    "No": 20,
+    "Rank": 49,
+    "Code Customer": "027",
+    "Nama Customer": "Customer - 027",
+    "Order": 83,
+    "Qty Terjual": 747,
+    "Sales": "Rp141,894,891"
+  },
+  {
+    "No": 21,
+    "Rank": 69,
+    "Code Customer": "076",
+    "Nama Customer": "Customer - 076",
+    "Order": 52,
+    "Qty Terjual": 260,
+    "Sales": "Rp45,503,380"
+  },
+  {
+    "No": 22,
+    "Rank": 42,
+    "Code Customer": "095",
+    "Nama Customer": "Customer - 095",
+    "Order": 178,
+    "Qty Terjual": 890,
+    "Sales": "Rp164,981,970"
+  },
+  {
+    "No": 23,
+    "Rank": 18,
+    "Code Customer": "032",
+    "Nama Customer": "Customer - 032",
+    "Order": 105,
+    "Qty Terjual": 1680,
+    "Sales": "Rp296,884,560"
+  },
+  {
+    "No": 24,
+    "Rank": 74,
+    "Code Customer": "038",
+    "Nama Customer": "Customer - 038",
+    "Order": 55,
+    "Qty Terjual": 110,
+    "Sales": "Rp18,677,560"
+  },
+  {
+    "No": 25,
+    "Rank": 63,
+    "Code Customer": "079",
+    "Nama Customer": "Customer - 079",
+    "Order": 15,
+    "Qty Terjual": 285,
+    "Sales": "Rp50,660,460"
+  },
+  {
+    "No": 26,
+    "Rank": 43,
+    "Code Customer": "019",
+    "Nama Customer": "Customer - 019",
+    "Order": 142,
+    "Qty Terjual": 994,
+    "Sales": "Rp157,315,410"
+  },
+  {
+    "No": 27,
+    "Rank": 73,
+    "Code Customer": "021",
+    "Nama Customer": "Customer - 021",
+    "Order": 27,
+    "Qty Terjual": 54,
+    "Sales": "Rp8,461,854"
+  },
+  {
+    "No": 28,
+    "Rank": 14,
+    "Code Customer": "059",
+    "Nama Customer": "Customer - 059",
+    "Order": 114,
+    "Qty Terjual": 2052,
+    "Sales": "Rp318,915,684"
+  },
+  {
+    "No": 29,
+    "Rank": 58,
+    "Code Customer": "056",
+    "Nama Customer": "Customer - 056",
+    "Order": 35,
+    "Qty Terjual": 385,
+    "Sales": "Rp65,932,020"
+  },
+  {
+    "No": 30,
+    "Rank": 6,
+    "Code Customer": "027",
+    "Nama Customer": "Customer - 027",
+    "Order": 163,
+    "Qty Terjual": 2608,
+    "Sales": "Rp417,976,336"
+  },
+  {
+    "No": 31,
+    "Rank": 33,
+    "Code Customer": "078",
+    "Nama Customer": "Customer - 078",
+    "Order": 98,
+    "Qty Terjual": 1176,
+    "Sales": "Rp180,780,600"
+  },
+  {
+    "No": 32,
+    "Rank": 17,
+    "Code Customer": "063",
+    "Nama Customer": "Customer - 063",
+    "Order": 136,
+    "Qty Terjual": 1632,
+    "Sales": "Rp276,718,656"
+  },
+  {
+    "No": 33,
+    "Rank": 15,
+    "Code Customer": "030",
+    "Nama Customer": "Customer - 030",
+    "Order": 143,
+    "Qty Terjual": 2002,
+    "Sales": "Rp316,211,896"
+  },
+  {
+    "No": 34,
+    "Rank": 46,
+    "Code Customer": "028",
+    "Nama Customer": "Customer - 028",
+    "Order": 114,
+    "Qty Terjual": 570,
+    "Sales": "Rp103,621,440"
+  },
+  {
+    "No": 35,
+    "Rank": 17,
+    "Code Customer": "017",
+    "Nama Customer": "Customer - 017",
+    "Order": 183,
+    "Qty Terjual": 1647,
+    "Sales": "Rp270,112,941"
+  },
+  {
+    "No": 36,
+    "Rank": 21,
+    "Code Customer": "035",
+    "Nama Customer": "Customer - 035",
+    "Order": 125,
+    "Qty Terjual": 1500,
+    "Sales": "Rp228,408,000"
+  },
+  {
+    "No": 37,
+    "Rank": 14,
+    "Code Customer": "098",
+    "Nama Customer": "Customer - 098",
+    "Order": 133,
+    "Qty Terjual": 1596,
+    "Sales": "Rp316,871,436"
+  },
+  {
+    "No": 38,
+    "Rank": 45,
+    "Code Customer": "043",
+    "Nama Customer": "Customer - 043",
+    "Order": 79,
+    "Qty Terjual": 474,
+    "Sales": "Rp85,744,704"
+  },
+  {
+    "No": 39,
+    "Rank": 50,
+    "Code Customer": "037",
+    "Nama Customer": "Customer - 037",
+    "Order": 16,
+    "Qty Terjual": 320,
+    "Sales": "Rp51,274,880"
+  },
+  {
+    "No": 40,
+    "Rank": 19,
+    "Code Customer": "081",
+    "Nama Customer": "Customer - 081",
+    "Order": 90,
+    "Qty Terjual": 1350,
+    "Sales": "Rp238,054,950"
+  },
+  {
+    "No": 41,
+    "Rank": 30,
+    "Code Customer": "088",
+    "Nama Customer": "Customer - 088",
+    "Order": 69,
+    "Qty Terjual": 1173,
+    "Sales": "Rp176,142,372"
+  },
+  {
+    "No": 42,
+    "Rank": 48,
+    "Code Customer": "035",
+    "Nama Customer": "Customer - 035",
+    "Order": 43,
+    "Qty Terjual": 301,
+    "Sales": "Rp48,490,498"
+  },
+  {
+    "No": 43,
+    "Rank": 41,
+    "Code Customer": "059",
+    "Nama Customer": "Customer - 059",
+    "Order": 179,
+    "Qty Terjual": 537,
+    "Sales": "Rp91,924,734"
+  },
+  {
+    "No": 44,
+    "Rank": 37,
+    "Code Customer": "057",
+    "Nama Customer": "Customer - 057",
+    "Order": 48,
+    "Qty Terjual": 624,
+    "Sales": "Rp118,531,920"
+  },
+  {
+    "No": 45,
+    "Rank": 52,
+    "Code Customer": "060",
+    "Nama Customer": "Customer - 060",
+    "Order": 44,
+    "Qty Terjual": 132,
+    "Sales": "Rp25,486,560"
+  },
+  {
+    "No": 46,
+    "Rank": 50,
+    "Code Customer": "007",
+    "Nama Customer": "Customer - 007",
+    "Order": 12,
+    "Qty Terjual": 216,
+    "Sales": "Rp34,048,080"
+  },
+  {
+    "No": 47,
+    "Rank": 5,
+    "Code Customer": "062",
+    "Nama Customer": "Customer - 062",
+    "Order": 135,
+    "Qty Terjual": 2700,
+    "Sales": "Rp420,935,400"
+  },
+  {
+    "No": 48,
+    "Rank": 49,
+    "Code Customer": "029",
+    "Nama Customer": "Customer - 029",
+    "Order": 89,
+    "Qty Terjual": 178,
+    "Sales": "Rp32,900,808"
+  },
+  {
+    "No": 49,
+    "Rank": 23,
+    "Code Customer": 100,
+    "Nama Customer": "Customer - 100",
+    "Order": 110,
+    "Qty Terjual": 1210,
+    "Sales": "Rp185,523,250"
+  },
+  {
+    "No": 50,
+    "Rank": 29,
+    "Code Customer": "057",
+    "Nama Customer": "Customer - 057",
+    "Order": 166,
+    "Qty Terjual": 996,
+    "Sales": "Rp163,205,556"
+  },
+  {
+    "No": 51,
+    "Rank": 43,
+    "Code Customer": "095",
+    "Nama Customer": "Customer - 095",
+    "Order": 70,
+    "Qty Terjual": 280,
+    "Sales": "Rp48,389,320"
+  },
+  {
+    "No": 52,
+    "Rank": 29,
+    "Code Customer": "076",
+    "Nama Customer": "Customer - 076",
+    "Order": 94,
+    "Qty Terjual": 940,
+    "Sales": "Rp158,729,340"
+  },
+  {
+    "No": 53,
+    "Rank": 13,
+    "Code Customer": "043",
+    "Nama Customer": "Customer - 043",
+    "Order": 147,
+    "Qty Terjual": 1470,
+    "Sales": "Rp289,332,750"
+  },
+  {
+    "No": 54,
+    "Rank": 6,
+    "Code Customer": "024",
+    "Nama Customer": "Customer - 024",
+    "Order": 199,
+    "Qty Terjual": 2189,
+    "Sales": "Rp401,136,439"
+  },
+  {
+    "No": 55,
+    "Rank": 7,
+    "Code Customer": "078",
+    "Nama Customer": "Customer - 078",
+    "Order": 171,
+    "Qty Terjual": 2052,
+    "Sales": "Rp389,418,300"
+  },
+  {
+    "No": 56,
+    "Rank": 2,
+    "Code Customer": "014",
+    "Nama Customer": "Customer - 014",
+    "Order": 148,
+    "Qty Terjual": 2812,
+    "Sales": "Rp510,411,744"
+  },
+  {
+    "No": 57,
+    "Rank": 25,
+    "Code Customer": "068",
+    "Nama Customer": "Customer - 068",
+    "Order": 68,
+    "Qty Terjual": 952,
+    "Sales": "Rp156,993,368"
+  },
+  {
+    "No": 58,
+    "Rank": 40,
+    "Code Customer": "076",
+    "Nama Customer": "Customer - 076",
+    "Order": 143,
+    "Qty Terjual": 143,
+    "Sales": "Rp22,311,861"
+  },
+  {
+    "No": 59,
+    "Rank": 34,
+    "Code Customer": "095",
+    "Nama Customer": "Customer - 095",
+    "Order": 19,
+    "Qty Terjual": 380,
+    "Sales": "Rp73,074,380"
+  },
+  {
+    "No": 60,
+    "Rank": 35,
+    "Code Customer": "091",
+    "Nama Customer": "Customer - 091",
+    "Order": 177,
+    "Qty Terjual": 354,
+    "Sales": "Rp53,108,142"
+  },
+  {
+    "No": 61,
+    "Rank": 5,
+    "Code Customer": "083",
+    "Nama Customer": "Customer - 083",
+    "Order": 154,
+    "Qty Terjual": 2464,
+    "Sales": "Rp393,530,368"
+  },
+  {
+    "No": 62,
+    "Rank": 29,
+    "Code Customer": "091",
+    "Nama Customer": "Customer - 091",
+    "Order": 141,
+    "Qty Terjual": 705,
+    "Sales": "Rp107,124,045"
+  },
+  {
+    "No": 63,
+    "Rank": 24,
+    "Code Customer": "075",
+    "Nama Customer": "Customer - 075",
+    "Order": 81,
+    "Qty Terjual": 972,
+    "Sales": "Rp147,089,844"
+  },
+  {
+    "No": 64,
+    "Rank": 28,
+    "Code Customer": "064",
+    "Nama Customer": "Customer - 064",
+    "Order": 62,
+    "Qty Terjual": 496,
+    "Sales": "Rp86,475,616"
+  },
+  {
+    "No": 65,
+    "Rank": 26,
+    "Code Customer": "042",
+    "Nama Customer": "Customer - 042",
+    "Order": 40,
+    "Qty Terjual": 680,
+    "Sales": "Rp115,929,120"
+  },
+  {
+    "No": 66,
+    "Rank": 27,
+    "Code Customer": "098",
+    "Nama Customer": "Customer - 098",
+    "Order": 164,
+    "Qty Terjual": 492,
+    "Sales": "Rp83,497,812"
+  },
+  {
+    "No": 67,
+    "Rank": 31,
+    "Code Customer": "096",
+    "Nama Customer": "Customer - 096",
+    "Order": 81,
+    "Qty Terjual": 243,
+    "Sales": "Rp38,697,507"
+  },
+  {
+    "No": 68,
+    "Rank": 1,
+    "Code Customer": "048",
+    "Nama Customer": "Customer - 048",
+    "Order": 168,
+    "Qty Terjual": 3360,
+    "Sales": "Rp635,869,920"
+  },
+  {
+    "No": 69,
+    "Rank": 28,
+    "Code Customer": "038",
+    "Nama Customer": "Customer - 038",
+    "Order": 33,
+    "Qty Terjual": 297,
+    "Sales": "Rp46,351,008"
+  },
+  {
+    "No": 70,
+    "Rank": 18,
+    "Code Customer": "042",
+    "Nama Customer": "Customer - 042",
+    "Order": 121,
+    "Qty Terjual": 1089,
+    "Sales": "Rp181,675,692"
+  },
+  {
+    "No": 71,
+    "Rank": 12,
+    "Code Customer": "006",
+    "Nama Customer": "Customer - 006",
+    "Order": 113,
+    "Qty Terjual": 1130,
+    "Sales": "Rp224,892,600"
+  },
+  {
+    "No": 72,
+    "Rank": 18,
+    "Code Customer": "009",
+    "Nama Customer": "Customer - 009",
+    "Order": 111,
+    "Qty Terjual": 1110,
+    "Sales": "Rp178,367,010"
+  },
+  {
+    "No": 73,
+    "Rank": 27,
+    "Code Customer": "004",
+    "Nama Customer": "Customer - 004",
+    "Order": 4,
+    "Qty Terjual": 68,
+    "Sales": "Rp12,919,456"
+  },
+  {
+    "No": 74,
+    "Rank": 17,
+    "Code Customer": "086",
+    "Nama Customer": "Customer - 086",
+    "Order": 167,
+    "Qty Terjual": 1002,
+    "Sales": "Rp178,950,186"
+  },
+  {
+    "No": 75,
+    "Rank": 16,
+    "Code Customer": "035",
+    "Nama Customer": "Customer - 035",
+    "Order": 135,
+    "Qty Terjual": 945,
+    "Sales": "Rp182,572,110"
+  },
+  {
+    "No": 76,
+    "Rank": 13,
+    "Code Customer": "071",
+    "Nama Customer": "Customer - 071",
+    "Order": 112,
+    "Qty Terjual": 1344,
+    "Sales": "Rp220,266,816"
+  },
+  {
+    "No": 77,
+    "Rank": 5,
+    "Code Customer": "073",
+    "Nama Customer": "Customer - 073",
+    "Order": 152,
+    "Qty Terjual": 2128,
+    "Sales": "Rp359,742,656"
+  },
+  {
+    "No": 78,
+    "Rank": 9,
+    "Code Customer": "003",
+    "Nama Customer": "Customer - 003",
+    "Order": 75,
+    "Qty Terjual": 1275,
+    "Sales": "Rp250,733,850"
+  },
+  {
+    "No": 79,
+    "Rank": 8,
+    "Code Customer": "060",
+    "Nama Customer": "Customer - 060",
+    "Order": 101,
+    "Qty Terjual": 1717,
+    "Sales": "Rp265,293,670"
+  },
+  {
+    "No": 80,
+    "Rank": 7,
+    "Code Customer": "027",
+    "Nama Customer": "Customer - 027",
+    "Order": 89,
+    "Qty Terjual": 1424,
+    "Sales": "Rp276,637,632"
+  },
+  {
+    "No": 81,
+    "Rank": 17,
+    "Code Customer": "048",
+    "Nama Customer": "Customer - 048",
+    "Order": 48,
+    "Qty Terjual": 432,
+    "Sales": "Rp72,394,128"
+  },
+  {
+    "No": 82,
+    "Rank": 16,
+    "Code Customer": "061",
+    "Nama Customer": "Customer - 061",
+    "Order": 21,
+    "Qty Terjual": 399,
+    "Sales": "Rp74,755,443"
+  },
+  {
+    "No": 83,
+    "Rank": 12,
+    "Code Customer": "029",
+    "Nama Customer": "Customer - 029",
+    "Order": 98,
+    "Qty Terjual": 980,
+    "Sales": "Rp167,785,800"
+  },
+  {
+    "No": 84,
+    "Rank": 6,
+    "Code Customer": "014",
+    "Nama Customer": "Customer - 014",
+    "Order": 135,
+    "Qty Terjual": 1890,
+    "Sales": "Rp318,584,070"
+  },
+  {
+    "No": 85,
+    "Rank": 16,
+    "Code Customer": "047",
+    "Nama Customer": "Customer - 047",
+    "Order": 4,
+    "Qty Terjual": 16,
+    "Sales": "Rp3,136,064"
+  },
+  {
+    "No": 86,
+    "Rank": 12,
+    "Code Customer": "065",
+    "Nama Customer": "Customer - 065",
+    "Order": 63,
+    "Qty Terjual": 693,
+    "Sales": "Rp132,429,528"
+  },
+  {
+    "No": 87,
+    "Rank": 12,
+    "Code Customer": "055",
+    "Nama Customer": "Customer - 055",
+    "Order": 59,
+    "Qty Terjual": 708,
+    "Sales": "Rp108,588,084"
+  },
+  {
+    "No": 88,
+    "Rank": 11,
+    "Code Customer": "054",
+    "Nama Customer": "Customer - 054",
+    "Order": 131,
+    "Qty Terjual": 786,
+    "Sales": "Rp145,435,938"
+  },
+  {
+    "No": 89,
+    "Rank": 5,
+    "Code Customer": "004",
+    "Nama Customer": "Customer - 004",
+    "Order": 170,
+    "Qty Terjual": 1700,
+    "Sales": "Rp321,595,800"
+  },
+  {
+    "No": 90,
+    "Rank": 10,
+    "Code Customer": "008",
+    "Nama Customer": "Customer - 008",
+    "Order": 48,
+    "Qty Terjual": 240,
+    "Sales": "Rp43,620,960"
+  },
+  {
+    "No": 91,
+    "Rank": 2,
+    "Code Customer": "064",
+    "Nama Customer": "Customer - 064",
+    "Order": 190,
+    "Qty Terjual": 3040,
+    "Sales": "Rp467,877,280"
+  },
+  {
+    "No": 92,
+    "Rank": 5,
+    "Code Customer": "074",
+    "Nama Customer": "Customer - 074",
+    "Order": 70,
+    "Qty Terjual": 1120,
+    "Sales": "Rp223,819,680"
+  },
+  {
+    "No": 93,
+    "Rank": 6,
+    "Code Customer": "022",
+    "Nama Customer": "Customer - 022",
+    "Order": 74,
+    "Qty Terjual": 1258,
+    "Sales": "Rp200,862,344"
+  },
+  {
+    "No": 94,
+    "Rank": 6,
+    "Code Customer": "081",
+    "Nama Customer": "Customer - 081",
+    "Order": 69,
+    "Qty Terjual": 1104,
+    "Sales": "Rp177,761,664"
+  },
+  {
+    "No": 95,
+    "Rank": 5,
+    "Code Customer": "042",
+    "Nama Customer": "Customer - 042",
+    "Order": 124,
+    "Qty Terjual": 1240,
+    "Sales": "Rp210,692,120"
+  },
+  {
+    "No": 96,
+    "Rank": 1,
+    "Code Customer": "045",
+    "Nama Customer": "Customer - 045",
+    "Order": 184,
+    "Qty Terjual": 2576,
+    "Sales": "Rp493,267,936"
+  },
+  {
+    "No": 97,
+    "Rank": 2,
+    "Code Customer": "034",
+    "Nama Customer": "Customer - 034",
+    "Order": 150,
+    "Qty Terjual": 2250,
+    "Sales": "Rp375,842,250"
+  },
+  {
+    "No": 98,
+    "Rank": 2,
+    "Code Customer": "055",
+    "Nama Customer": "Customer - 055",
+    "Order": 106,
+    "Qty Terjual": 1590,
+    "Sales": "Rp247,369,020"
+  },
+  {
+    "No": 99,
+    "Rank": 1,
+    "Code Customer": "039",
+    "Nama Customer": "Customer - 039",
+    "Order": 140,
+    "Qty Terjual": 2520,
+    "Sales": "Rp412,904,520"
+  },
+  {
+    "No": 100,
+    "Rank": 1,
+    "Code Customer": "097",
+    "Nama Customer": "Customer - 097",
+    "Order": 11,
+    "Qty Terjual": 121,
+    "Sales": "Rp21,576,599"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "No": 1,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 1,
+    "Group Product": "Blouse",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 2,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 2,
+    "Group Product": "Tshirt",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 3,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 3,
+    "Group Product": "Rok",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 4,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 4,
+    "Group Product": "Celana panjang",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 5,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 5,
+    "Group Product": "Celana pendek",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 6,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 6,
+    "Group Product": "Mini Dress",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 7,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 7,
+    "Group Product": "Maxi Dress",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 8,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 8,
+    "Group Product": "Sweater",
+    "Deskripsi Group Product": "rajut"
+  },
+  {
+    "No": 9,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 9,
+    "Group Product": "Sweatshirt",
+    "Deskripsi Group Product": "Hoodie dan model biasa bisa digabung"
+  },
+  {
+    "No": 10,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 10,
+    "Group Product": "Jumpsuit",
+    "Deskripsi Group Product": "panjang dan pendek"
+  },
+  {
+    "No": 11,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 11,
+    "Group Product": "1 set Fashion Celana Panjang",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 12,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 12,
+    "Group Product": "1 set Fashion celana pendek",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 13,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 13,
+    "Group Product": "Cardigan",
+    "Deskripsi Group Product": "Rajut"
+  },
+  {
+    "No": 14,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 14,
+    "Group Product": "syal",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 15,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 15,
+    "Group Product": "Jaket",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 16,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 16,
+    "Group Product": "Blazer",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 17,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 17,
+    "Group Product": "1 set fashion bawahan rok",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 18,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 18,
+    "Group Product": "set baju rajut",
+    "Deskripsi Group Product": "celana pendek,panjang,rok"
+  },
+  {
+    "No": 19,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 19,
+    "Group Product": "Kemeja",
+    "Deskripsi Group Product": ""
+  },
+  {
+    "No": 20,
+    "Action": "<div class='row' style='margin-left: 0px; !important'><div class='hky-btn-action-delete'><i class='fa fa-times'></i></div>&nbsp;<div class='btn-action-edit'><i class='fa fa-pencil-alt fa-xs'></i></div></div>",
+    "Code Group": 20,
+    "Group Product": "-",
+    "Deskripsi Group Product": "-"
+  }
+]

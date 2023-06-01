@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "pid": 0,
+    "status": 1,
+    "name": 1,
+    "permissionValue": "open:system:get"
+  },
+  {
+    "id": "",
+    "pid": 1,
+    "status": 1,
+    "name": 2,
+    "permissionValue": "open:system:add"
+  },
+  {
+    "id": "",
+    "pid": 1,
+    "status": 1,
+    "name": 3,
+    "permissionValue": "open:system:edit"
+  },
+  {
+    "id": "",
+    "pid": 1,
+    "status": 1,
+    "name": 4,
+    "permissionValue": "open:system:delete"
+  },
+  {
+    "id": 2,
+    "pid": 0,
+    "status": 0,
+    "name": 5,
+    "permissionValue": "open:dict:get"
+  },
+  {
+    "id": "",
+    "pid": 2,
+    "status": 1,
+    "name": 6,
+    "permissionValue": "open:env:get"
+  },
+  {
+    "id": "",
+    "pid": 2,
+    "status": 1,
+    "name": 7,
+    "permissionValue": "open:env:get"
+  },
+  {
+    "id": "",
+    "pid": 2,
+    "status": 1,
+    "name": 8,
+    "permissionValue": "open:env:get"
+  },
+  {
+    "id": "",
+    "pid": 2,
+    "status": 1,
+    "name": 9,
+    "permissionValue": "open:env:get"
+  }
+]

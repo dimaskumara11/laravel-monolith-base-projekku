@@ -1,0 +1,402 @@
+[
+  {
+    "No": 1,
+    "Code Customer": "001",
+    "Nama Customer": "Customer - 001",
+    "Nama Toko": "Toko - Customer - Customer - 001",
+    "Qty Terjual": 191,
+    "Sales": "62,769,667"
+  },
+  {
+    "No": 2,
+    "Code Customer": "002",
+    "Nama Customer": "Customer - 002",
+    "Nama Toko": "Toko - Customer - Customer - 002",
+    "Qty Terjual": 367,
+    "Sales": "142,659,506"
+  },
+  {
+    "No": 3,
+    "Code Customer": "003",
+    "Nama Customer": "Customer - 003",
+    "Nama Toko": "Toko - Customer - Customer - 003",
+    "Qty Terjual": 132,
+    "Sales": "64,802,628"
+  },
+  {
+    "No": 4,
+    "Code Customer": "004",
+    "Nama Customer": "Customer - 004",
+    "Nama Toko": "Toko - Customer - Customer - 004",
+    "Qty Terjual": 666,
+    "Sales": "172,202,292"
+  },
+  {
+    "No": 5,
+    "Code Customer": "005",
+    "Nama Customer": "Customer - 005",
+    "Nama Toko": "Toko - Customer - Customer - 005",
+    "Qty Terjual": 794,
+    "Sales": "203,081,380"
+  },
+  {
+    "No": 6,
+    "Code Customer": "006",
+    "Nama Customer": "Customer - 006",
+    "Nama Toko": "Toko - Customer - Customer - 006",
+    "Qty Terjual": 749,
+    "Sales": "325,379,082"
+  },
+  {
+    "No": 7,
+    "Code Customer": "007",
+    "Nama Customer": "Customer - 007",
+    "Nama Toko": "Toko - Customer - Customer - 007",
+    "Qty Terjual": 608,
+    "Sales": "164,928,512"
+  },
+  {
+    "No": 8,
+    "Code Customer": "008",
+    "Nama Customer": "Customer - 008",
+    "Nama Toko": "Toko - Customer - Customer - 008",
+    "Qty Terjual": 987,
+    "Sales": "266,905,527"
+  },
+  {
+    "No": 9,
+    "Code Customer": "009",
+    "Nama Customer": "Customer - 009",
+    "Nama Toko": "Toko - Customer - Customer - 009",
+    "Qty Terjual": 925,
+    "Sales": "396,423,550"
+  },
+  {
+    "No": 10,
+    "Code Customer": "010",
+    "Nama Customer": "Customer - 010",
+    "Nama Toko": "Toko - Customer - Customer - 010",
+    "Qty Terjual": 717,
+    "Sales": "332,038,398"
+  },
+  {
+    "No": 11,
+    "Code Customer": "011",
+    "Nama Customer": "Customer - 011",
+    "Nama Toko": "Toko - Customer - Customer - 011",
+    "Qty Terjual": 340,
+    "Sales": "144,912,080"
+  },
+  {
+    "No": 12,
+    "Code Customer": "012",
+    "Nama Customer": "Customer - 012",
+    "Nama Toko": "Toko - Customer - Customer - 012",
+    "Qty Terjual": 566,
+    "Sales": "182,407,650"
+  },
+  {
+    "No": 13,
+    "Code Customer": "013",
+    "Nama Customer": "Customer - 013",
+    "Nama Toko": "Toko - Customer - Customer - 013",
+    "Qty Terjual": 492,
+    "Sales": "195,453,888"
+  },
+  {
+    "No": 14,
+    "Code Customer": "014",
+    "Nama Customer": "Customer - 014",
+    "Nama Toko": "Toko - Customer - Customer - 014",
+    "Qty Terjual": 546,
+    "Sales": "242,870,628"
+  },
+  {
+    "No": 15,
+    "Code Customer": "015",
+    "Nama Customer": "Customer - 015",
+    "Nama Toko": "Toko - Customer - Customer - 015",
+    "Qty Terjual": 822,
+    "Sales": "238,392,330"
+  },
+  {
+    "No": 16,
+    "Code Customer": "016",
+    "Nama Customer": "Customer - 016",
+    "Nama Toko": "Toko - Customer - Customer - 016",
+    "Qty Terjual": 216,
+    "Sales": "80,163,216"
+  },
+  {
+    "No": 17,
+    "Code Customer": "017",
+    "Nama Customer": "Customer - 017",
+    "Nama Toko": "Toko - Customer - Customer - 017",
+    "Qty Terjual": 936,
+    "Sales": "268,185,528"
+  },
+  {
+    "No": 18,
+    "Code Customer": "018",
+    "Nama Customer": "Customer - 018",
+    "Nama Toko": "Toko - Customer - Customer - 018",
+    "Qty Terjual": 254,
+    "Sales": "90,366,342"
+  },
+  {
+    "No": 19,
+    "Code Customer": "019",
+    "Nama Customer": "Customer - 019",
+    "Nama Toko": "Toko - Customer - Customer - 019",
+    "Qty Terjual": 181,
+    "Sales": "82,528,760"
+  },
+  {
+    "No": 20,
+    "Code Customer": "020",
+    "Nama Customer": "Customer - 020",
+    "Nama Toko": "Toko - Customer - Customer - 020",
+    "Qty Terjual": 841,
+    "Sales": "374,890,047"
+  },
+  {
+    "No": 21,
+    "Code Customer": "021",
+    "Nama Customer": "Customer - 021",
+    "Nama Toko": "Toko - Customer - Customer - 021",
+    "Qty Terjual": 152,
+    "Sales": "55,457,352"
+  },
+  {
+    "No": 22,
+    "Code Customer": "022",
+    "Nama Customer": "Customer - 022",
+    "Nama Toko": "Toko - Customer - Customer - 022",
+    "Qty Terjual": 261,
+    "Sales": "103,264,128"
+  },
+  {
+    "No": 23,
+    "Code Customer": "023",
+    "Nama Customer": "Customer - 023",
+    "Nama Toko": "Toko - Customer - Customer - 023",
+    "Qty Terjual": 905,
+    "Sales": "347,397,825"
+  },
+  {
+    "No": 24,
+    "Code Customer": "024",
+    "Nama Customer": "Customer - 024",
+    "Nama Toko": "Toko - Customer - Customer - 024",
+    "Qty Terjual": 434,
+    "Sales": "209,989,598"
+  },
+  {
+    "No": 25,
+    "Code Customer": "025",
+    "Nama Customer": "Customer - 025",
+    "Nama Toko": "Toko - Customer - Customer - 025",
+    "Qty Terjual": 284,
+    "Sales": "136,779,512"
+  },
+  {
+    "No": 26,
+    "Code Customer": "026",
+    "Nama Customer": "Customer - 026",
+    "Nama Toko": "Toko - Customer - Customer - 026",
+    "Qty Terjual": 310,
+    "Sales": "110,046,900"
+  },
+  {
+    "No": 27,
+    "Code Customer": "027",
+    "Nama Customer": "Customer - 027",
+    "Nama Toko": "Toko - Customer - Customer - 027",
+    "Qty Terjual": 326,
+    "Sales": "149,312,238"
+  },
+  {
+    "No": 28,
+    "Code Customer": "028",
+    "Nama Customer": "Customer - 028",
+    "Nama Toko": "Toko - Customer - Customer - 028",
+    "Qty Terjual": 781,
+    "Sales": "298,293,578"
+  },
+  {
+    "No": 29,
+    "Code Customer": "029",
+    "Nama Customer": "Customer - 029",
+    "Nama Toko": "Toko - Customer - Customer - 029",
+    "Qty Terjual": 105,
+    "Sales": "33,070,065"
+  },
+  {
+    "No": 30,
+    "Code Customer": "030",
+    "Nama Customer": "Customer - 030",
+    "Nama Toko": "Toko - Customer - Customer - 030",
+    "Qty Terjual": 653,
+    "Sales": "237,254,490"
+  },
+  {
+    "No": 31,
+    "Code Customer": "031",
+    "Nama Customer": "Customer - 031",
+    "Nama Toko": "Toko - Customer - Customer - 031",
+    "Qty Terjual": 174,
+    "Sales": "76,665,618"
+  },
+  {
+    "No": 32,
+    "Code Customer": "032",
+    "Nama Customer": "Customer - 032",
+    "Nama Toko": "Toko - Customer - Customer - 032",
+    "Qty Terjual": 301,
+    "Sales": "135,666,720"
+  },
+  {
+    "No": 33,
+    "Code Customer": "033",
+    "Nama Customer": "Customer - 033",
+    "Nama Toko": "Toko - Customer - Customer - 033",
+    "Qty Terjual": 825,
+    "Sales": "359,866,650"
+  },
+  {
+    "No": 34,
+    "Code Customer": "034",
+    "Nama Customer": "Customer - 034",
+    "Nama Toko": "Toko - Customer - Customer - 034",
+    "Qty Terjual": 580,
+    "Sales": "221,020,600"
+  },
+  {
+    "No": 35,
+    "Code Customer": "035",
+    "Nama Customer": "Customer - 035",
+    "Nama Toko": "Toko - Customer - Customer - 035",
+    "Qty Terjual": 794,
+    "Sales": "265,030,848"
+  },
+  {
+    "No": 36,
+    "Code Customer": "036",
+    "Nama Customer": "Customer - 036",
+    "Nama Toko": "Toko - Customer - Customer - 036",
+    "Qty Terjual": 355,
+    "Sales": "144,183,960"
+  },
+  {
+    "No": 37,
+    "Code Customer": "037",
+    "Nama Customer": "Customer - 037",
+    "Nama Toko": "Toko - Customer - Customer - 037",
+    "Qty Terjual": 352,
+    "Sales": "94,419,424"
+  },
+  {
+    "No": 38,
+    "Code Customer": "038",
+    "Nama Customer": "Customer - 038",
+    "Nama Toko": "Toko - Customer - Customer - 038",
+    "Qty Terjual": 301,
+    "Sales": "146,891,612"
+  },
+  {
+    "No": 39,
+    "Code Customer": "039",
+    "Nama Customer": "Customer - 039",
+    "Nama Toko": "Toko - Customer - Customer - 039",
+    "Qty Terjual": 832,
+    "Sales": "388,439,168"
+  },
+  {
+    "No": 40,
+    "Code Customer": "040",
+    "Nama Customer": "Customer - 040",
+    "Nama Toko": "Toko - Customer - Customer - 040",
+    "Qty Terjual": 435,
+    "Sales": "182,433,345"
+  },
+  {
+    "No": 41,
+    "Code Customer": "041",
+    "Nama Customer": "Customer - 041",
+    "Nama Toko": "Toko - Customer - Customer - 041",
+    "Qty Terjual": 640,
+    "Sales": "296,992,640"
+  },
+  {
+    "No": 42,
+    "Code Customer": "042",
+    "Nama Customer": "Customer - 042",
+    "Nama Toko": "Toko - Customer - Customer - 042",
+    "Qty Terjual": 626,
+    "Sales": "229,675,018"
+  },
+  {
+    "No": 43,
+    "Code Customer": "043",
+    "Nama Customer": "Customer - 043",
+    "Nama Toko": "Toko - Customer - Customer - 043",
+    "Qty Terjual": 582,
+    "Sales": "198,507,978"
+  },
+  {
+    "No": 44,
+    "Code Customer": "044",
+    "Nama Customer": "Customer - 044",
+    "Nama Toko": "Toko - Customer - Customer - 044",
+    "Qty Terjual": 456,
+    "Sales": "150,912,744"
+  },
+  {
+    "No": 45,
+    "Code Customer": "045",
+    "Nama Customer": "Customer - 045",
+    "Nama Toko": "Toko - Customer - Customer - 045",
+    "Qty Terjual": 766,
+    "Sales": "235,512,062"
+  },
+  {
+    "No": 46,
+    "Code Customer": "046",
+    "Nama Customer": "Customer - 046",
+    "Nama Toko": "Toko - Customer - Customer - 046",
+    "Qty Terjual": 700,
+    "Sales": "334,643,400"
+  },
+  {
+    "No": 47,
+    "Code Customer": "047",
+    "Nama Customer": "Customer - 047",
+    "Nama Toko": "Toko - Customer - Customer - 047",
+    "Qty Terjual": 235,
+    "Sales": "96,127,455"
+  },
+  {
+    "No": 48,
+    "Code Customer": "048",
+    "Nama Customer": "Customer - 048",
+    "Nama Toko": "Toko - Customer - Customer - 048",
+    "Qty Terjual": 151,
+    "Sales": "70,659,695"
+  },
+  {
+    "No": 49,
+    "Code Customer": "049",
+    "Nama Customer": "Customer - 049",
+    "Nama Toko": "Toko - Customer - Customer - 049",
+    "Qty Terjual": 181,
+    "Sales": "85,218,963"
+  },
+  {
+    "No": 50,
+    "Code Customer": "050",
+    "Nama Customer": "Customer - 050",
+    "Nama Toko": "Toko - Customer - Customer - 050",
+    "Qty Terjual": 458,
+    "Sales": "150,343,080"
+  }
+]

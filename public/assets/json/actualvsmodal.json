@@ -1,0 +1,502 @@
+[
+  {
+    "No": 1,
+    "Code Product": "Code - 000001",
+    "Nama Product": "Product - 000001",
+    "Qty Terjual": 487,
+    "Modal": "177,779.00",
+    "Jual": "383,722.00",
+    "Profit": "205,943.00",
+    "%": "116%"
+  },
+  {
+    "No": 2,
+    "Code Product": "Code - 000002",
+    "Nama Product": "Product - 000002",
+    "Qty Terjual": "1,773.00",
+    "Modal": "120,514.00",
+    "Jual": "359,260.00",
+    "Profit": "238,746.00",
+    "%": "198%"
+  },
+  {
+    "No": 3,
+    "Code Product": "Code - 000003",
+    "Nama Product": "Product - 000003",
+    "Qty Terjual": 993,
+    "Modal": "117,797.00",
+    "Jual": "402,498.00",
+    "Profit": "284,701.00",
+    "%": "242%"
+  },
+  {
+    "No": 4,
+    "Code Product": "Code - 000004",
+    "Nama Product": "Product - 000004",
+    "Qty Terjual": 424,
+    "Modal": "104,044.00",
+    "Jual": "463,095.00",
+    "Profit": "359,051.00",
+    "%": "345%"
+  },
+  {
+    "No": 5,
+    "Code Product": "Code - 000005",
+    "Nama Product": "Product - 000005",
+    "Qty Terjual": 116,
+    "Modal": "196,978.00",
+    "Jual": "488,155.00",
+    "Profit": "291,177.00",
+    "%": "148%"
+  },
+  {
+    "No": 6,
+    "Code Product": "Code - 000006",
+    "Nama Product": "Product - 000006",
+    "Qty Terjual": "1,242.00",
+    "Modal": "115,566.00",
+    "Jual": "459,746.00",
+    "Profit": "344,180.00",
+    "%": "298%"
+  },
+  {
+    "No": 7,
+    "Code Product": "Code - 000007",
+    "Nama Product": "Product - 000007",
+    "Qty Terjual": "1,658.00",
+    "Modal": "121,758.00",
+    "Jual": "398,277.00",
+    "Profit": "276,519.00",
+    "%": "227%"
+  },
+  {
+    "No": 8,
+    "Code Product": "Code - 000008",
+    "Nama Product": "Product - 000008",
+    "Qty Terjual": 139,
+    "Modal": "163,562.00",
+    "Jual": "392,889.00",
+    "Profit": "229,327.00",
+    "%": "140%"
+  },
+  {
+    "No": 9,
+    "Code Product": "Code - 000009",
+    "Nama Product": "Product - 000009",
+    "Qty Terjual": "1,027.00",
+    "Modal": "170,191.00",
+    "Jual": "462,742.00",
+    "Profit": "292,551.00",
+    "%": "172%"
+  },
+  {
+    "No": 10,
+    "Code Product": "Code - 000010",
+    "Nama Product": "Product - 000010",
+    "Qty Terjual": "1,184.00",
+    "Modal": "122,673.00",
+    "Jual": "445,100.00",
+    "Profit": "322,427.00",
+    "%": "263%"
+  },
+  {
+    "No": 11,
+    "Code Product": "Code - 000011",
+    "Nama Product": "Product - 000011",
+    "Qty Terjual": 98,
+    "Modal": "129,567.00",
+    "Jual": "357,728.00",
+    "Profit": "228,161.00",
+    "%": "176%"
+  },
+  {
+    "No": 12,
+    "Code Product": "Code - 000012",
+    "Nama Product": "Product - 000012",
+    "Qty Terjual": 213,
+    "Modal": "173,472.00",
+    "Jual": "398,713.00",
+    "Profit": "225,241.00",
+    "%": "130%"
+  },
+  {
+    "No": 13,
+    "Code Product": "Code - 000013",
+    "Nama Product": "Product - 000013",
+    "Qty Terjual": 821,
+    "Modal": "111,109.00",
+    "Jual": "387,085.00",
+    "Profit": "275,976.00",
+    "%": "248%"
+  },
+  {
+    "No": 14,
+    "Code Product": "Code - 000014",
+    "Nama Product": "Product - 000014",
+    "Qty Terjual": 484,
+    "Modal": "198,915.00",
+    "Jual": "498,737.00",
+    "Profit": "299,822.00",
+    "%": "151%"
+  },
+  {
+    "No": 15,
+    "Code Product": "Code - 000015",
+    "Nama Product": "Product - 000015",
+    "Qty Terjual": "1,282.00",
+    "Modal": "131,907.00",
+    "Jual": "453,184.00",
+    "Profit": "321,277.00",
+    "%": "244%"
+  },
+  {
+    "No": 16,
+    "Code Product": "Code - 000016",
+    "Nama Product": "Product - 000016",
+    "Qty Terjual": "1,655.00",
+    "Modal": "186,653.00",
+    "Jual": "429,685.00",
+    "Profit": "243,032.00",
+    "%": "130%"
+  },
+  {
+    "No": 17,
+    "Code Product": "Code - 000017",
+    "Nama Product": "Product - 000017",
+    "Qty Terjual": "1,846.00",
+    "Modal": "106,876.00",
+    "Jual": "449,058.00",
+    "Profit": "342,182.00",
+    "%": "320%"
+  },
+  {
+    "No": 18,
+    "Code Product": "Code - 000018",
+    "Nama Product": "Product - 000018",
+    "Qty Terjual": 372,
+    "Modal": "143,902.00",
+    "Jual": "488,025.00",
+    "Profit": "344,123.00",
+    "%": "239%"
+  },
+  {
+    "No": 19,
+    "Code Product": "Code - 000019",
+    "Nama Product": "Product - 000019",
+    "Qty Terjual": "1,424.00",
+    "Modal": "121,366.00",
+    "Jual": "404,122.00",
+    "Profit": "282,756.00",
+    "%": "233%"
+  },
+  {
+    "No": 20,
+    "Code Product": "Code - 000020",
+    "Nama Product": "Product - 000020",
+    "Qty Terjual": 412,
+    "Modal": "181,927.00",
+    "Jual": "460,832.00",
+    "Profit": "278,905.00",
+    "%": "153%"
+  },
+  {
+    "No": 21,
+    "Code Product": "Code - 000021",
+    "Nama Product": "Product - 000021",
+    "Qty Terjual": "1,106.00",
+    "Modal": "190,968.00",
+    "Jual": "434,632.00",
+    "Profit": "243,664.00",
+    "%": "128%"
+  },
+  {
+    "No": 22,
+    "Code Product": "Code - 000022",
+    "Nama Product": "Product - 000022",
+    "Qty Terjual": "1,823.00",
+    "Modal": "103,977.00",
+    "Jual": "362,942.00",
+    "Profit": "258,965.00",
+    "%": "249%"
+  },
+  {
+    "No": 23,
+    "Code Product": "Code - 000023",
+    "Nama Product": "Product - 000023",
+    "Qty Terjual": "1,531.00",
+    "Modal": "151,482.00",
+    "Jual": "368,513.00",
+    "Profit": "217,031.00",
+    "%": "143%"
+  },
+  {
+    "No": 24,
+    "Code Product": "Code - 000024",
+    "Nama Product": "Product - 000024",
+    "Qty Terjual": "1,437.00",
+    "Modal": "131,500.00",
+    "Jual": "391,760.00",
+    "Profit": "260,260.00",
+    "%": "198%"
+  },
+  {
+    "No": 25,
+    "Code Product": "Code - 000025",
+    "Nama Product": "Product - 000025",
+    "Qty Terjual": 757,
+    "Modal": "145,134.00",
+    "Jual": "469,889.00",
+    "Profit": "324,755.00",
+    "%": "224%"
+  },
+  {
+    "No": 26,
+    "Code Product": "Code - 000026",
+    "Nama Product": "Product - 000026",
+    "Qty Terjual": 120,
+    "Modal": "148,039.00",
+    "Jual": "418,985.00",
+    "Profit": "270,946.00",
+    "%": "183%"
+  },
+  {
+    "No": 27,
+    "Code Product": "Code - 000027",
+    "Nama Product": "Product - 000027",
+    "Qty Terjual": 49,
+    "Modal": "152,852.00",
+    "Jual": "428,158.00",
+    "Profit": "275,306.00",
+    "%": "180%"
+  },
+  {
+    "No": 28,
+    "Code Product": "Code - 000028",
+    "Nama Product": "Product - 000028",
+    "Qty Terjual": 272,
+    "Modal": "140,475.00",
+    "Jual": "422,853.00",
+    "Profit": "282,378.00",
+    "%": "201%"
+  },
+  {
+    "No": 29,
+    "Code Product": "Code - 000029",
+    "Nama Product": "Product - 000029",
+    "Qty Terjual": "1,744.00",
+    "Modal": "144,853.00",
+    "Jual": "435,771.00",
+    "Profit": "290,918.00",
+    "%": "201%"
+  },
+  {
+    "No": 30,
+    "Code Product": "Code - 000030",
+    "Nama Product": "Product - 000030",
+    "Qty Terjual": 256,
+    "Modal": "193,642.00",
+    "Jual": "401,548.00",
+    "Profit": "207,906.00",
+    "%": "107%"
+  },
+  {
+    "No": 31,
+    "Code Product": "Code - 000031",
+    "Nama Product": "Product - 000031",
+    "Qty Terjual": "1,080.00",
+    "Modal": "104,217.00",
+    "Jual": "479,253.00",
+    "Profit": "375,036.00",
+    "%": "360%"
+  },
+  {
+    "No": 32,
+    "Code Product": "Code - 000032",
+    "Nama Product": "Product - 000032",
+    "Qty Terjual": "1,004.00",
+    "Modal": "177,754.00",
+    "Jual": "358,838.00",
+    "Profit": "181,084.00",
+    "%": "102%"
+  },
+  {
+    "No": 33,
+    "Code Product": "Code - 000033",
+    "Nama Product": "Product - 000033",
+    "Qty Terjual": "1,122.00",
+    "Modal": "188,786.00",
+    "Jual": "389,702.00",
+    "Profit": "200,916.00",
+    "%": "106%"
+  },
+  {
+    "No": 34,
+    "Code Product": "Code - 000034",
+    "Nama Product": "Product - 000034",
+    "Qty Terjual": "1,705.00",
+    "Modal": "137,852.00",
+    "Jual": "409,995.00",
+    "Profit": "272,143.00",
+    "%": "197%"
+  },
+  {
+    "No": 35,
+    "Code Product": "Code - 000035",
+    "Nama Product": "Product - 000035",
+    "Qty Terjual": "1,085.00",
+    "Modal": "145,352.00",
+    "Jual": "472,532.00",
+    "Profit": "327,180.00",
+    "%": "225%"
+  },
+  {
+    "No": 36,
+    "Code Product": "Code - 000036",
+    "Nama Product": "Product - 000036",
+    "Qty Terjual": "1,023.00",
+    "Modal": "159,854.00",
+    "Jual": "394,052.00",
+    "Profit": "234,198.00",
+    "%": "147%"
+  },
+  {
+    "No": 37,
+    "Code Product": "Code - 000037",
+    "Nama Product": "Product - 000037",
+    "Qty Terjual": "1,510.00",
+    "Modal": "110,383.00",
+    "Jual": "458,569.00",
+    "Profit": "348,186.00",
+    "%": "315%"
+  },
+  {
+    "No": 38,
+    "Code Product": "Code - 000038",
+    "Nama Product": "Product - 000038",
+    "Qty Terjual": "1,953.00",
+    "Modal": "129,995.00",
+    "Jual": "404,474.00",
+    "Profit": "274,479.00",
+    "%": "211%"
+  },
+  {
+    "No": 39,
+    "Code Product": "Code - 000039",
+    "Nama Product": "Product - 000039",
+    "Qty Terjual": "1,935.00",
+    "Modal": "174,505.00",
+    "Jual": "465,104.00",
+    "Profit": "290,599.00",
+    "%": "167%"
+  },
+  {
+    "No": 40,
+    "Code Product": "Code - 000040",
+    "Nama Product": "Product - 000040",
+    "Qty Terjual": 734,
+    "Modal": "189,963.00",
+    "Jual": "393,324.00",
+    "Profit": "203,361.00",
+    "%": "107%"
+  },
+  {
+    "No": 41,
+    "Code Product": "Code - 000041",
+    "Nama Product": "Product - 000041",
+    "Qty Terjual": "1,538.00",
+    "Modal": "101,886.00",
+    "Jual": "371,220.00",
+    "Profit": "269,334.00",
+    "%": "264%"
+  },
+  {
+    "No": 42,
+    "Code Product": "Code - 000042",
+    "Nama Product": "Product - 000042",
+    "Qty Terjual": "1,225.00",
+    "Modal": "163,445.00",
+    "Jual": "480,208.00",
+    "Profit": "316,763.00",
+    "%": "194%"
+  },
+  {
+    "No": 43,
+    "Code Product": "Code - 000043",
+    "Nama Product": "Product - 000043",
+    "Qty Terjual": "1,471.00",
+    "Modal": "155,688.00",
+    "Jual": "410,067.00",
+    "Profit": "254,379.00",
+    "%": "163%"
+  },
+  {
+    "No": 44,
+    "Code Product": "Code - 000044",
+    "Nama Product": "Product - 000044",
+    "Qty Terjual": "1,113.00",
+    "Modal": "135,472.00",
+    "Jual": "404,491.00",
+    "Profit": "269,019.00",
+    "%": "199%"
+  },
+  {
+    "No": 45,
+    "Code Product": "Code - 000045",
+    "Nama Product": "Product - 000045",
+    "Qty Terjual": 576,
+    "Modal": "178,361.00",
+    "Jual": "420,369.00",
+    "Profit": "242,008.00",
+    "%": "136%"
+  },
+  {
+    "No": 46,
+    "Code Product": "Code - 000046",
+    "Nama Product": "Product - 000046",
+    "Qty Terjual": "1,755.00",
+    "Modal": "156,304.00",
+    "Jual": "393,162.00",
+    "Profit": "236,858.00",
+    "%": "152%"
+  },
+  {
+    "No": 47,
+    "Code Product": "Code - 000047",
+    "Nama Product": "Product - 000047",
+    "Qty Terjual": 162,
+    "Modal": "130,149.00",
+    "Jual": "459,515.00",
+    "Profit": "329,366.00",
+    "%": "253%"
+  },
+  {
+    "No": 48,
+    "Code Product": "Code - 000048",
+    "Nama Product": "Product - 000048",
+    "Qty Terjual": "1,844.00",
+    "Modal": "118,180.00",
+    "Jual": "370,047.00",
+    "Profit": "251,867.00",
+    "%": "213%"
+  },
+  {
+    "No": 49,
+    "Code Product": "Code - 000049",
+    "Nama Product": "Product - 000049",
+    "Qty Terjual": 87,
+    "Modal": "175,739.00",
+    "Jual": "457,145.00",
+    "Profit": "281,406.00",
+    "%": "160%"
+  },
+  {
+    "No": 50,
+    "Code Product": "Code - 000050",
+    "Nama Product": "Product - 000050",
+    "Qty Terjual": "1,149.00",
+    "Modal": "162,422.00",
+    "Jual": "361,640.00",
+    "Profit": "199,218.00",
+    "%": "123%"
+  }
+]
